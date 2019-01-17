@@ -1,0 +1,318 @@
+[
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547633710842,
+            "changeTime": 1547633710842,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547633710842,
+            "changeTime": 1547633710842,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547633710843,
+            "changeTime": 1547633710843,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547636219476,
+            "changeTime": 1547636219476,
+            "contentHash": "3d29d0af8f80bbfe3595ad56d4e21f789612e121",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547691207046,
+            "changeTime": 1547691207046,
+            "contentHash": "727b026430b34159fc32cad39bbb69fe3494ea4b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547634868028,
+            "changeTime": 1547634868028,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "size": 312,
+            "modifiedTime": 1547636551485,
+            "changeTime": 1547636551485,
+            "contentHash": "b9d20e90c8e6aa84b94238e91f7c5cfb2409f5fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1547636090767,
+            "changeTime": 1547634953930,
+            "contentHash": "3434a5c8686cb4c9fe4cb6b043a5b12a36c6b9d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1547635901837,
+            "changeTime": 1547634981972,
+            "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547633786269,
+            "changeTime": 1547633786269,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547636219501,
+            "changeTime": 1547636219501,
+            "contentHash": "0803b6443278f2cae9f7ddba17669f6ae1e3c551",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 83,
+            "modifiedTime": 1547703414899,
+            "changeTime": 1547703414899,
+            "contentHash": "ce00f6f8089800bd19b4cb88cda05c89af1bc19c"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.app-meta.xml",
+            "isDirectory": false,
+            "size": 251,
+            "modifiedTime": 1547636219482,
+            "changeTime": 1547636219482,
+            "contentHash": "5b5bd5dbd5824a387c9e0385d28860b761d1bd89",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.auradoc",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1547636219501,
+            "changeTime": 1547636219501,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.css",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1547636219492,
+            "changeTime": 1547636219492,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.svg",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTesting.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1547636219499,
+            "changeTime": 1547636219499,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTestingController.js",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTestingController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1547636219485,
+            "changeTime": 1547636219485,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTestingHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTestingHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1547636219489,
+            "changeTime": 1547636219489,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTestingRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura\\HelloWorldTesting\\HelloWorldTestingRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1547636219495,
+            "changeTime": 1547636219495,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1547691207062,
+            "changeTime": 1547691207062,
+            "contentHash": "732ba2e5e108d950a9a467456da5c6a4786a4af5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm\\contactForm.html",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm\\contactForm.html",
+            "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1547691984899,
+            "changeTime": 1547691984899,
+            "contentHash": "afbf013815892571d0a35f063cabc8eb6d56eed8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm\\contactForm.js",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm\\contactForm.js",
+            "isDirectory": false,
+            "size": 338,
+            "modifiedTime": 1547692143368,
+            "changeTime": 1547692143368,
+            "contentHash": "1fc9faac9af2f9a76208d7b7f391e5948ffae2cd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm\\contactForm.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jitenders695\\Downloads\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\contactForm\\contactForm.js-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1547691207058,
+            "changeTime": 1547691207058,
+            "contentHash": "0743c12556c923441cc935f810f10dc286b0d146",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]
