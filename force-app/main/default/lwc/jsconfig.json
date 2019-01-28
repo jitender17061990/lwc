@@ -2,7 +2,14 @@
     "compilerOptions": {
         "experimentalDecorators": true,
         "baseUrl": ".",
-        "paths": {}
+        "paths": {
+            "c/contact-form": [
+                "contactForm/contactForm.js"
+            ],
+            "c/hello-world": [
+                "helloWorld/helloWorld.js"
+            ]
+        }
     },
     "include": [
         "**/*",
